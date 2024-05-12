@@ -1,0 +1,15 @@
+{
+    "name": "muhsin/vk-prototype-marketplace-api",
+    "autoload": {
+        "psr-4": {
+            "Muhsin\\Vk\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "muxsin",
+            "email": "muxsin.shokirov@gmail.com"
+        }
+    ],
+    "require": {}
+}
